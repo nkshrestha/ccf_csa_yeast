@@ -1,0 +1,31 @@
+Analyte,Concentration (CFU/mL),Sensitivity,Specificity,Mean,SD
+Control,0,100,100,NaN,NA
+C.albicans ,6,100,100,27.87,0.62
+C.albicans ,30,100,100,23.43,2.2
+C.albicans ,3000,100,100,16.44,1.4
+C.albicans ,300000,100,100,10.04,0.96
+C.glabrata ,6,100,100,24.66,2.18
+C.glabrata ,30,100,100,19.72,1.81
+C.glabrata ,3000,100,100,14.24,1.07
+C.glabrata ,300000,100,100,7.9,0.56
+C.krusei ,6,100,100,28.93,1.57
+C.krusei ,30,100,100,23.92,0.28
+C.krusei ,3000,100,100,18.53,2.45
+C.krusei ,300000,100,100,9.47,0.81
+C.lusitaniae ,6,100,100,26.74,2.66
+C.lusitaniae ,30,100,100,21.22,2.5
+C.lusitaniae ,3000,100,100,14.42,0.69
+C.lusitaniae ,300000,100,100,8.66,0.64
+C.neoformans ,6,100,100,52.44,3.21
+C.neoformans ,30,100,100,41.42,2.22
+C.neoformans ,3000,100,100,28.81,2.72
+C.neoformans ,300000,100,100,16.93,3.99
+C.parapsilosis ,6,100,100,40.67,2.27
+C.parapsilosis ,30,100,100,31,0.86
+C.parapsilosis ,3000,100,100,22.58,1.18
+C.parapsilosis ,300000,100,100,13.69,1.24
+C.tropicalis ,6,100,100,18.66,0.63
+C.tropicalis ,30,100,100,15.25,0.6
+C.tropicalis ,3000,100,100,12,0.28
+C.tropicalis ,300000,100,100,7.33,0.24
+Total,,100,100,21.32,NA
